@@ -1,0 +1,23 @@
+.searchContainer {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.searchHeaderContainer {
+  position: fixed;
+}
+.searchHeader {
+  text-align: center;
+}
+.searchField {
+  text-align: center;
+}
+.resultsContainer {
+  padding-left: 25%;
+  padding-right: 25%;
+}
+
+li {
+  list-style-type: none;
+  text-align: left;
+}
